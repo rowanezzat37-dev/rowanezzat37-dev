@@ -3,10 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rowanezzat37-dev)
 
-## I'm a Software Engineer, Data Science Student, and Mobile Developer!!
+## I'm a Software Engineer, Data Science Student!!
 
 - 🔭 I’m currently a student at the Faculty of Computers and Data Science.
-- 🌱 I have a strong passion for **Software Engineering, Data Science, and Mobile Development** (specifically using Flutter).
+- 🌱 I have a strong passion for **Software Engineering, Data Science**.
 - 💻 **Check out my recent projects:**
   - **Course Prerequisite Scheduler:** A GUI application built with Python (Tkinter) utilizing Depth-First Search (DFS) algorithms.
   - **Podcast Episode Playlist:** A system developed in Java using custom Node classes and Linked List data structures.
