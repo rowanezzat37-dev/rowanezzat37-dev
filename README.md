@@ -1,7 +1,6 @@
 # Hi there, I'm Rowan Ezzat Mohamed 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/
-rowan-ezzat-6753a1367)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rowan-ezzat-6753a1367)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rowanezzat37-dev)
 
 ## I'm a Software Engineer, Data Science Student!!
