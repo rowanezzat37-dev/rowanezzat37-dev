@@ -33,8 +33,8 @@
 
 <br />
 
----
+### 🔥 GitHub Code Streak
 
-### ⚡ GitHub Stats
-
-[![Rowan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rowanezzat37-dev&show_icons=true&theme=radical)](https://github.com/rowanezzat37-dev)
+<a href="https://github.com/rowanezzat37-dev">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rowanezzat37-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</a>
